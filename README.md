@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Munaf</h1>
 <h3 align="center">A passionate Software Engineer Development from India</h3>
 
-- 🔭 I’m currently working at **Agro Udgam** as a **SDE INTERN**
+- 🔭  **EX-SDE INTERN** AT **Agro Udgam** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
